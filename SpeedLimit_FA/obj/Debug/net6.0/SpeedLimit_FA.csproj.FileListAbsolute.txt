@@ -1,0 +1,15 @@
+D:\C#Projects\SpeedLimit_FA\bin\Debug\net6.0\SpeedLimit_FA.exe
+D:\C#Projects\SpeedLimit_FA\bin\Debug\net6.0\SpeedLimit_FA.deps.json
+D:\C#Projects\SpeedLimit_FA\bin\Debug\net6.0\SpeedLimit_FA.runtimeconfig.json
+D:\C#Projects\SpeedLimit_FA\bin\Debug\net6.0\SpeedLimit_FA.dll
+D:\C#Projects\SpeedLimit_FA\bin\Debug\net6.0\SpeedLimit_FA.pdb
+D:\C#Projects\SpeedLimit_FA\obj\Debug\net6.0\SpeedLimit_FA.csproj.AssemblyReference.cache
+D:\C#Projects\SpeedLimit_FA\obj\Debug\net6.0\SpeedLimit_FA.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\SpeedLimit_FA\obj\Debug\net6.0\SpeedLimit_FA.AssemblyInfoInputs.cache
+D:\C#Projects\SpeedLimit_FA\obj\Debug\net6.0\SpeedLimit_FA.AssemblyInfo.cs
+D:\C#Projects\SpeedLimit_FA\obj\Debug\net6.0\SpeedLimit_FA.csproj.CoreCompileInputs.cache
+D:\C#Projects\SpeedLimit_FA\obj\Debug\net6.0\SpeedLimit_FA.dll
+D:\C#Projects\SpeedLimit_FA\obj\Debug\net6.0\refint\SpeedLimit_FA.dll
+D:\C#Projects\SpeedLimit_FA\obj\Debug\net6.0\SpeedLimit_FA.pdb
+D:\C#Projects\SpeedLimit_FA\obj\Debug\net6.0\SpeedLimit_FA.genruntimeconfig.cache
+D:\C#Projects\SpeedLimit_FA\obj\Debug\net6.0\ref\SpeedLimit_FA.dll
